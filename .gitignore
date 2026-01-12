@@ -1,0 +1,8 @@
+# Working directory for commands repo (cloned on-demand by the skill)
+claude-commands/
+
+# macOS
+.DS_Store
+
+# Claude Code local settings
+.claude/
