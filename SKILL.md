@@ -213,7 +213,3 @@ User: "Share the screenshot command"
 - Local clone kept at `~/.claude/skills/share-command/claude-commands/`
 - **Always complete security review before publishing**
 - Command names derive from the filename (without `.md` extension)
-
-## Update check
-
-This skill is managed by [skills.sh](https://skills.sh). To check for updates, run `npx skills update`.
