@@ -6,3 +6,6 @@ claude-commands/
 
 # Claude Code local settings
 .claude/
+
+# Private local data (not published)
+data/
